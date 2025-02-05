@@ -1,129 +1,53 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+*** START OF THE PROJECT GUTENBERG EBOOK 51371 ***
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
-    <title>
-      The Project Gutenberg eBook of Slaveholding, by Charles Fitch.
-    </title>
-    <style type="text/css">
+SLAVEHOLDING
 
-    p {  margin-top: .75em;
-         text-align: justify;
-         margin-bottom: .75em;
-         }
+WEIGHED IN THE
 
-    p.bold {text-align: center; font-weight: bold;}
-    p.bold2 {text-align: center; font-weight: bold; font-size: 150%;}
+BALANCE OF TRUTH,
 
-    h1,h2,h3,h4,h5,h6 {
-         text-align: center; /* all headings centered */
-         clear: both;
-         }
-    h1 span, h2 span { display: block; text-align: center; }
-    #id1 { font-size: smaller }
+AND ITS COMPARATIVE GUILT ILLUSTRATED.
+
+BY CHARLES FITCH.
+Pastor of First Free Congregational Church, Boston.
+
+BOSTON:
+PUBLISHED BY ISAAC KNAPP,
+No. 25, Cornhill.
+
+1837.
 
 
-    hr {
-        width: 33%;
-        margin-top: 2em;
-        margin-bottom: 2em;
-        margin-left: 33.5%;
-        margin-right: 33.5%;
-        clear: both;
-    }
 
-    hr.smler {
-        width: 15%;
-        margin-top: 1em;
-        margin-bottom: 1em;
-        margin-left: 42.5%;
-        margin-right: 42.5%;
-        clear: both;
-    }
 
-    body{margin-left: 10%;
-         margin-right: 10%;
-        }
+SLAVEHOLDING, & c.
 
-    .pagenum  { /* uncomment the next line for invisible page numbers */
-            /*  visibility: hidden;  */
-                position: absolute;
-                left: 92%;
-                font-size: smaller;
-                text-align: right;
-                text-indent: 0px;
-              } /* page numbers */
 
-    .center   {text-align: center;}
-
-    </style>
-  </head>
-<body>
-<div>*** START OF THE PROJECT GUTENBERG EBOOK 51371 ***</div>
-
-<div class="center"><a name="cover.jpg" id="cover.jpg"></a><img src="images/cover.jpg" alt="cover" /></div>
-
-<hr />
-
-<p><span class='pagenum'><a name="Page_1" id="Page_1">[Pg 1]</a></span></p>
-
-<h1>SLAVEHOLDING</h1>
-
-<p class="bold">WEIGHED IN THE</p>
-
-<p class="bold2">BALANCE OF TRUTH,</p>
-
-<p class="bold">AND ITS COMPARATIVE GUILT ILLUSTRATED.</p>
-
-<hr class="smler" />
-
-<p class="bold">BY CHARLES FITCH.<br />Pastor of First Free Congregational Church, Boston.</p>
-
-<hr class="smler" />
-
-<p class="bold">BOSTON:<br />
-PUBLISHED BY ISAAC KNAPP,<br />
-No. 25, Cornhill.</p>
-
-<p class="center">&mdash;&mdash;</p>
-
-<p class="bold">1837.</p>
-
-<hr />
-
-<p><span class='pagenum'><a name="Page_3" id="Page_3">[Pg 3]</a></span></p>
-
-<p class="bold2">SLAVEHOLDING, &amp; c.</p>
-
-<p class="center">&mdash;&mdash;</p>
-
-<p>In order that we may understand the duties, which we owe to God and our
+In order that we may understand the duties, which we owe to God and our
 fellow men, relative to the subject of slavery, it is necessary that we
 examine the institution, in all its bearings upon the temporal and
 eternal interests of the enslaved; and ascertain, as far as we are able
 to do so, the extent of the injuries which it inflicts. To aid my
-readers in doing this is now my object.</p>
+readers in doing this is now my object.
 
-<p>I do not propose however, to gauge this mammoth evil, and show you its
+I do not propose however, to gauge this mammoth evil, and show you its
 exact dimensions; I fully confess to you in the outset, that I am not
 able so to do. That it is greater, in some of its bearings at least,
 than any other evil that ever existed among men, and involves more guilt
 than any other crime ever committed by men, I fully believe, and shall
 endeavor to show; still the evil has a magnitude which my powers cannot
 describe; and the guilt a blackness which can never be painted, except
-by a pencil dipped in the midnight of the bottomless pit.</p>
+by a pencil dipped in the midnight of the bottomless pit.
 
-<p><span class='pagenum'><a name="Page_4" id="Page_4">[Pg 4]</a></span></p><p>I am aware, that great complaint has often been made, of those, who
+I am aware, that great complaint has often been made, of those, who
 have endeavored to rouse the indignation of their fellow men against the
 wrongs inflicted on the poor slave, that they deal in unjust severity of
 language. That they have at any time spoken more than the truth, I do
-not believe&mdash;nor can I admit that they have dealt out severity and
+not believe--nor can I admit that they have dealt out severity and
 painted rebuke, in more unmeasured terms, than they have received them
-from their opponents.</p>
+from their opponents.
 
-<p>When I remember, too, the long and profound slumberings, even of
+When I remember, too, the long and profound slumberings, even of
 Christians on this subject, while their brethren were groaning under all
 the injuries, and cruelties, of iron-handed and steel-hearted
 oppression; I cannot suppress the feeling, that it was necessary, that
@@ -140,13 +64,13 @@ terrific mutterings of the incipient earthquake below, and felt the
 ground beneath them already giving way, what less could they do, than to
 lay about them with all their strength, in the use of the first
 expedient, that seemed calculated to awaken and save? They had no time
-to devise a multitude of measures, and then choose from<span class='pagenum'><a name="Page_5" id="Page_5">[Pg 5]</a></span> among them,
+to devise a multitude of measures, and then choose from among them,
 such as would be most likely to satisfy those who were unwilling to be
 awaked. They must do something, and do it then. Previous measures,
 though entered upon ostensibly for the purpose of arousing men from
 sleep, had only served as a lull-a-by. The oppressors of their fellow
 men, were but becoming more secure in their claims of property in God's
-image&mdash;the chains of the slave were getting more and more firmly
+image--the chains of the slave were getting more and more firmly
 rivetted, and the whole nation were fast binding themselves in a willing
 bondage to those, who found it conducive to their ease, and interest,
 and shameful indulgence, to be permitted to inflict all the wrongs they
@@ -158,44 +82,44 @@ prejudice, or interest, or ignorance, to the tremendous car of Slavery;
 and those who loved to have it so, had mounted the engine and were
 driving at rail-road speed, withersoever they would; and when a few
 awoke, and saw the nation thus hastening to the precipice of ruin, to be
-dashed in the abyss below&mdash;what less could they do, than to cry
-STOP&mdash;and that too, even at a pitch of remonstrance, which should
-subject them to the imputation of fanaticism or madness.</p>
+dashed in the abyss below--what less could they do, than to cry
+STOP--and that too, even at a pitch of remonstrance, which should
+subject them to the imputation of fanaticism or madness.
 
-<p>It is not unlikely that some of my readers, may regard the language
+It is not unlikely that some of my readers, may regard the language
 which I shall use as unreasonably severe; and yet I do not believe, nor
 can I think that any man, after looking candidly at the subject, will
-believe that it expresses more than the truth.</p>
+believe that it expresses more than the truth.
 
-<p>My design is to draw a parallel between slavery and<span class='pagenum'><a name="Page_6" id="Page_6">[Pg 6]</a></span> the evils which
+My design is to draw a parallel between slavery and the evils which
 stand connected with it, and some of the worst evils and vices and
 crimes, which are ever found among men, that we may see where slavery
-ought to be placed in the catalogue of sins.</p>
+ought to be placed in the catalogue of sins.
 
-<p>1. Let us look at the Roman Catholic Church. Much has been said during
+1. Let us look at the Roman Catholic Church. Much has been said during
 the last few years, of the efforts which were being made, to bring this
 country under subjection to the Pope of Rome. Now it is enough to make a
 man shudder from head to foot, though his nerves were iron, and his
 sinews brass, to think of the most distant possibility that such a thing
-may ever take place.</p>
+may ever take place.
 
-<p>But what are the evils which the Romish Church inflicts, upon such as
-are brought under her control?</p>
+But what are the evils which the Romish Church inflicts, upon such as
+are brought under her control?
 
-<p>She takes away the Bible from them, and gives them no opportunity, to
+She takes away the Bible from them, and gives them no opportunity, to
 learn for themselves, the way to heaven. All the religious instruction,
 which the people can receive, must come orally, from the lips of the
 priest. Slavery does the same thing precisely, to all who come under its
-control. They may not read the Bible, nor possess it&mdash;and can receive no
+control. They may not read the Bible, nor possess it--and can receive no
 religious instruction, but what comes orally from the lips of the
 priest. The Roman Catholic Church depends for its perpetuity, upon the
 ignorance of the common people. Slavery depends for its perpetuity upon
 the ignorance, of the enslaved. Hence the great effort to shut out all
-<i>knowledge</i>. The Romish Church robs the laboring classes of large sums
+_knowledge_. The Romish Church robs the laboring classes of large sums
 of money, to support its pope, and its cardinals, its bishops, and its
 priests, in idleness and luxury and profligacy. Slavery robs the
 laboring class of their earnings, to support another set of men in the
-same mode of life. The Romish Church <span class='pagenum'><a name="Page_7" id="Page_7">[Pg 7]</a></span>confiscates the property, and
+same mode of life. The Romish Church confiscates the property, and
 confines, and tortures, and puts to death, such as will not submit to
 her rule, whenever she has the power of doing so. Slavery does the same
 things. Not only the property, the whole earnings, but the wife and
@@ -207,21 +131,21 @@ multitude of ways inflicts its cruelties, upon such as will not yield an
 entire submission to its rule. If any refuse to submit longer to their
 sufferings, and flee, they are followed into their hiding places, and
 put to death. Others are whipped until death ensues; others are driven
-to hard labor without proper food or rest, until they sink down and die.</p>
+to hard labor without proper food or rest, until they sink down and die.
 
-<p>But the Romish Church does not, ordinarily, strip the whole multitude of
+But the Romish Church does not, ordinarily, strip the whole multitude of
 its victims, of everything that bears the name of property, and take the
 ownership of themselves out of their hands, and drive them by the
 scourge to hard labor from the beginning to the end of the year. She
 does not measure out to them their scanty pittance of food, nor name
 every rag of clothing which they are permitted to put on, nor mock at
-all the relations of social life&mdash;stealing the child out of the father's
+all the relations of social life--stealing the child out of the father's
 arms, or off the mother's breast; and the wife out of the bosom of her
 husband; and separating them for life, depriving them of all the
 protection of law, and subjecting them daily to every injury and
 suffering, which avarice and passion and lust can load upon them. Nor
 are men, women and children under her influence, like cattle, raised to
-sell. Such enormities as these are<span class='pagenum'><a name="Page_8" id="Page_8">[Pg 8]</a></span> left to be practiced by slavery; and
+sell. Such enormities as these are left to be practiced by slavery; and
 to be legalized in the statute books of a people, who have boastingly
 regarded themselves, as the most thoroughly christianized nation on
 which the sun ever shines. I say then, there are points, in which
@@ -246,14 +170,14 @@ spirit of liberty asleep, even among her own New-England hills. Hence
 the long, loud, and repeated threats of dissolving the Union, which
 Southern men have sent up on our ears, and which even some of our
 Governors have echoed back, in declarations that it is felony for a man
-to speak what he thinks on a <span class='pagenum'><a name="Page_9" id="Page_9">[Pg 9]</a></span>particular subject. Who doubts, that
+to speak what he thinks on a particular subject. Who doubts, that
 slavery if she could, would go so far in locking up the opinions of men
 within their own breasts, as ever popery went in the height of her
 power. She had already, well nigh, taken away the power of free
 discussion, from those who dare to assert the rights of their fellow
-men, and would soon have completed the <i>work</i>.</p>
+men, and would soon have completed the _work_.
 
-<p>2. Let us look at Infidelity. The evil arising from this source is, that
+2. Let us look at Infidelity. The evil arising from this source is, that
 it blinds men respecting their duty to God and their own souls, and thus
 leads them down to hell. It urges itself, however, on no man by force. A
 spark of honest desire to know the truth and walk in its light, is at
@@ -272,9 +196,9 @@ with the clear light of heaven shining all around them, they are shut
 out from this light, and left to grope their way in darkness down to
 hell. That I may not be suspected of declaring more than the truth on
 this point, I will just give a specimen of the laws of slave States
-touching this point.</p>
+touching this point.
 
-<p><span class='pagenum'><a name="Page_10" id="Page_10">[Pg 10]</a></span></p><p>'A law of South Carolina, passed in 1800, authorizes the infliction of
+'A law of South Carolina, passed in 1800, authorizes the infliction of
 twenty lashes, on every slave, found in an assembly, convened for mental
 instruction, held in a confined or secret place, although in presence of
 a white.' That this cuts them off, and was designed to cut them off from
@@ -298,12 +222,12 @@ the bare back, twenty-five stripes with a whip, switch, or cowskin.' 'In
 South Carolina, slaves may not meet together, before sunrise or after
 sunset, for the purpose of religious instruction, unless a majority of
 the meeting be of whites, on penalty of twenty lashes well laid on. In
-Virginia, all <i>evening</i> meetings<span class='pagenum'><a name="Page_11" id="Page_11">[Pg 11]</a></span> of slaves, at any meeting-house, are
+Virginia, all _evening_ meetings of slaves, at any meeting-house, are
 unequivocally forbidden.' Of course they may not meet in the day time,
 for then they must labor. Possibly they may on the Sabbath, but their
-opportunities of doing it even then, are few and far between.</p>
+opportunities of doing it even then, are few and far between.
 
-<p>You see, therefore, the strenuous efforts which are made by legislative
+You see, therefore, the strenuous efforts which are made by legislative
 enactments, to shut out all light from the mind of the slave, and
 surround him with a thick impenetrable darkness, in the midst of which
 he must live and die; and from which his eye never can open, till death
@@ -316,31 +240,31 @@ he terms 'sketches of slavery from a year's residence in Florida,' in
 one number of which, he speaks on this very point. He had conversed with
 slaveholders on the subject. One man thought it a very fine thing to
 give slaves religious instruction. 'I called my slaves together,' said
-he, 'one Sabbath day, <i>the only time which I have been able to get this
-season!!!</i> and read to them the account of Abraham's servant going to
+he, 'one Sabbath day, _the only time which I have been able to get this
+season!!!_ and read to them the account of Abraham's servant going to
 seek a wife for Isaac. I took occasion from this, to speak to them of
-the integrity of this servant&mdash;what an amount of property was committed
+the integrity of this servant--what an amount of property was committed
 to his care, how faithfully he watched over it, how careful not to
 purloin any of the rich jewels to himself, how anxious to return at the
 appointed time.' 'I think,' said this slaveholder, 'that religious
-instruction must be decidedly beneficial.' Another master<span class='pagenum'><a name="Page_12" id="Page_12">[Pg 12]</a></span> with whom I
+instruction must be decidedly beneficial.' Another master with whom I
 conversed, continues the writer, believed nothing about giving religious
 instruction to slaves. He regarded it as all a farce. 'There is no man,'
 said this slaveholder, 'who will read the whole Bible to his slaves. If
 I recollect right, there is something in the Bible which speaks of
-<i>breaking every yoke, and letting the oppressed go free</i>; and there is
-no master,' continued he, 'who will read <i>that</i> to his slaves, not even
+_breaking every yoke, and letting the oppressed go free_; and there is
+no master,' continued he, 'who will read _that_ to his slaves, not even
 your good Methodists; and if we must not read the whole Bible, we may as
-well read none at all.' Such were the views of slaveholders.</p>
+well read none at all.' Such were the views of slaveholders.
 
-<p>I have somewhere read the following. Whether authentic, or not, it
+I have somewhere read the following. Whether authentic, or not, it
 illustrates my point, and expresses, I am fully persuaded, very much of
 truth. It was the remark of a slave, after the master had been reading
-the Bible to him and his companion. 'Massa bery <i>good</i> Christian; him
-bery <i>good</i> Christian <i>indeed</i>. Read de Bible to us; but him always read
-de same chapter, what says, servants, obey your massas in all tings.'</p>
+the Bible to him and his companion. 'Massa bery _good_ Christian; him
+bery _good_ Christian _indeed_. Read de Bible to us; but him always read
+de same chapter, what says, servants, obey your massas in all tings.'
 
-<p>Here, unquestionably, we have just about the truth, on the subject of
+Here, unquestionably, we have just about the truth, on the subject of
 giving religious instruction to slaves. Multitudes never attempt it, and
 those who do, are sure to do it for their own interest, rather than for
 the good of the slave. That there are exceptions, I am willing to admit;
@@ -350,24 +274,24 @@ to some extent, and that some truly embrace it; but these are the
 exceptions, and not the general rule. My claim is, that slavery destroys
 more souls among the slaves by keeping the Bible away from them, than
 infidelity could do in its place, if they were permitted to have the
-<span class='pagenum'><a name="Page_13" id="Page_13">[Pg 13]</a></span>Bible and read for themselves; and it seems to me that this is a
-position which no honest man will dispute.&mdash;Slavery also destroys souls
+Bible and read for themselves; and it seems to me that this is a
+position which no honest man will dispute.--Slavery also destroys souls
 by force, when infidelity could only decoy, and therefore leave an
-opportunity for escape.</p>
+opportunity for escape.
 
-<p>3. Let us compare slavery with the making and vending of ardent spirits.
+3. Let us compare slavery with the making and vending of ardent spirits.
 Do not suspect me of a wish to palliate, or extenuate the evils, or the
 guilt of this abominable business. I have often dwelt on these, until my
 soul has been pained within me, and until I am well persuaded that all,
-and far more than all which has ever been said or <i>dreamed</i> on that
+and far more than all which has ever been said or _dreamed_ on that
 subject, is strictly true. I am aware too, that a highly gifted mind,
 has, some years since, drawn a parallel between intemperance and the
 slave-trade, in which he has endeavored to show, that the latter is an
 evil of the least magnitude. But I am comparing now the business of
 making and vending ardent spirits, with slavery as it exists at this
-time in our country.</p>
+time in our country.
 
-<p>It has often been said with unquestionable truth, that from three to
+It has often been said with unquestionable truth, that from three to
 five hundred thousand miserable men in our nation, are confirmed
 drunkards, and that from thirty to fifty thousand go down every year to
 a drunkard's grave; and inasmuch, as the drunkard cannot inherit the
@@ -376,7 +300,7 @@ destruction this indeed. But instead of five hundred thousand, there are
 not less than two millions two hundred forty-five thousand in our
 country, held in the darkness of slavery. How many of these, think you,
 have sufficient light to guide their feet to heaven? Shall we say one
-half? Who can<span class='pagenum'><a name="Page_14" id="Page_14">[Pg 14]</a></span> believe it? But if this be admitted, there are still more
+half? Who can believe it? But if this be admitted, there are still more
 than twice the number shut up by slavery, in a state of darkness that
 leads to hell, than have ever, by any man, been estimated in the ranks
 of intemperance. Is it not most clearly a truth, then, that slavery
@@ -398,10 +322,10 @@ of unpardoned sin. True, the guilt of him who dies the willing victim of
 intempesance, must be greater than that of the poor benighted slave, and
 his future punishment consequently more severe, but if slavery holds
 twice the number of victims exposed to hopeless reprobation, then it
-destroys twice the number of souls, and is therefore the greatest evil.</p>
+destroys twice the number of souls, and is therefore the greatest evil.
 
-<p>4. Let us compare slavery with theft and robbery. Let me give a case for
-illustration. You are a husband<span class='pagenum'><a name="Page_15" id="Page_15">[Pg 15]</a></span> and a father. You commenced the world a
+4. Let us compare slavery with theft and robbery. Let me give a case for
+illustration. You are a husband and a father. You commenced the world a
 poor man, but by hard labor and economy, you have collected together a
 sum of money, which, you believe, if well invested, will place you and
 your family in circumstances of respectability and comfort. From
@@ -415,19 +339,19 @@ all you have, and makes off, and you never hear of it more. Or suppose
 you are already on your journey, and after many days of fatiguing
 travel, find yourself near the place of your destination; when you are
 met by the highwayman, who, with a pistol at your breast, robs you of
-your last farthing.&mdash;Now I suppose this would be a case, where theft and
+your last farthing.--Now I suppose this would be a case, where theft and
 robbery would stand out in their worst features. It would be a trying
 case indeed. After years of toil, to gain something for yourself and
 household, you are in a moment pennyless, with your destitute, needy
 family upon your hands. All you can do, is again to betake yourself to
-hard labor, to provide for those you love.</p>
+hard labor, to provide for those you love.
 
-<p>But suppose after all this, you were doomed to see your children torn
+But suppose after all this, you were doomed to see your children torn
 from you, one after another, and sold under the hammer, to go you know
 not where; to be subjected to the cruelty, and abuse, and outrage, of
 any monster into whose hands they might chance to fall; where you could
 never see or hear from them more; and you left with no means of redress,
-to sit down <span class='pagenum'><a name="Page_16" id="Page_16">[Pg 16]</a></span>beside your broken hearted wife, and mingle your tears and
+to sit down beside your broken hearted wife, and mingle your tears and
 sighs and sobs with hers, with no prospect of relief until death. But in
 the midst of it all, even the wife of your bosom, dear as your own
 heart's blood, is sundered from you, and sold forever from your embrace,
@@ -438,12 +362,12 @@ man of all his earnings during his whole life. Labor as he may, sweat as
 he may, he can never have a farthing to call his own. Just hear the laws
 on this subject. 'In South Carolina a slave is not permitted to keep a
 boat, or raise and breed for his own benefit, any horses, cattle, sheep
-or hogs, under pain of forfeiture, and <i>any person may take them from
-him</i>.' I ask, what is that but robbery&mdash;except it is unspeakably worse,
-because it is legalized&mdash;and the poor man has no means of redress? It is
-made lawful for <i>any person</i> to rob him, by the letter of the statute.</p>
+or hogs, under pain of forfeiture, and _any person may take them from
+him_.' I ask, what is that but robbery--except it is unspeakably worse,
+because it is legalized--and the poor man has no means of redress? It is
+made lawful for _any person_ to rob him, by the letter of the statute.
 
-<p>'In Georgia, the master is fined thirty dollars for suffering a slave to
+'In Georgia, the master is fined thirty dollars for suffering a slave to
 hire himself to another, for his own benefit. In Maryland, the master
 forfeits thirteen dollars for each month that his slave is permitted to
 receive wages on his own account. In Virginia, every master is finable,
@@ -452,7 +376,7 @@ horses, cattle, hogs, or sheep, that shall belong to any slave, or be of
 any slave's mark in this State, shall be seized and sold by the county
 Wardens. In Mississippi, the master is forbidden under the penalty of
 fifty dollars, to let a slave raise cotton for himself, or to keep stock
-of any <span class='pagenum'><a name="Page_17" id="Page_17">[Pg 17]</a></span>description.' Now where is the man under heaven, who would not
+of any description.' Now where is the man under heaven, who would not
 say, that such a system of legalized oppression, was infinitely worse
 than theft or robbery, when practiced toward himself? And what, I ask,
 makes the crime any less heinous, when practiced toward a colored man,
@@ -461,7 +385,7 @@ such wrongs as deeply as we could, and groans under them as loudly, and
 sheds tears as profusely as we would do; but there he is, without means
 of redress. And in addition to all this robbery of everything in the
 shape of property; the poor slave is robbed of his children, and his
-wife, and robbed of himself&mdash;and has nothing left him, but a miserable
+wife, and robbed of himself--and has nothing left him, but a miserable
 existence, subjected to the most cruel, heart-withering tyranny, that
 was ever practiced by man on his fellow man, since this world has borne
 the curse of its God. When the thief, or the robber, takes your
@@ -475,14 +399,14 @@ slaveholder who goes impenitent to hell, will find himself loaded down
 with a weight of guilt and damnation, that will sink him out of sight of
 the worst high-way robber that ever walked the earth. But you will say
 the high-way robber is often guilty of murder. Well, and so is the
-slaveholder often guilty of murder&mdash;and this brings me to my next point.</p>
+slaveholder often guilty of murder--and this brings me to my next point.
 
-<p><span class='pagenum'><a name="Page_18" id="Page_18">[Pg 18]</a></span></p><p>5. Let us now compare slavery with murder. Who does not know, that
+5. Let us now compare slavery with murder. Who does not know, that
 oftentimes, when the poor slave can no longer endure the outrages
 practiced upon him, and flies, and takes to the woods, he is hunted down
 by dogs, and guns, and thus put to death, just for trying to escape.
 Every body knows, that it is a thing of frequent occurrence. Put to
-death&mdash;just for trying to escape from his sufferings and his wrongs.
+death--just for trying to escape from his sufferings and his wrongs.
 Again, it is a maxim with them, that at particular seasons, they can
 afford to work a set of hands to death, for the purpose of getting their
 crops early to market, and thereby securing a much greater price. The
@@ -500,37 +424,37 @@ this to being whipped, and then laid away to die under the effect? And
 is not the wretch who inflicts death by such means, to enrich himself,
 more guilty, than he who blows out the traveller's brains and seizes his
 money to enrich himself? Surely, my point needs no more illustration.
-Slavery <i>is worse</i> than murder. But there is still this point to be
-taken into the account. If a man shoots you dead<span class='pagenum'><a name="Page_19" id="Page_19">[Pg 19]</a></span> by the way side, it is
+Slavery _is worse_ than murder. But there is still this point to be
+taken into the account. If a man shoots you dead by the way side, it is
 your own fault if you do not go to heaven. You have the Bible, and the
 gospel. You know that there is a Saviour, and if you have not repented
 of your sins, and believed in him for salvation, you are without excuse.
-If you lose your soul, the fault is your own. Though murdered&mdash;you might
+If you lose your soul, the fault is your own. Though murdered--you might
 if you would, have been saved. But the poor slave is prevented from
 learning the way of salvation while he lives, and then worn out with
-toil, he dies and is lost forever. Surely I need not say more&mdash;what
-honest man is not prepared to say that slavery is worse than murder?</p>
+toil, he dies and is lost forever. Surely I need not say more--what
+honest man is not prepared to say that slavery is worse than murder?
 
-<p>6. I come now, to a point, which, in the estimation of some, perhaps,
+6. I come now, to a point, which, in the estimation of some, perhaps,
 ought to be suppressed. But I am a servant of the Most High God, and to
 him accountable; and as such, placed under solemn obligation to cry
 aloud and spare not, and show this guilty nation its sins. This, with
 the Lord's help, I will do. It is high time also, that our mothers, and
 our wives, our sisters, and our daughters, knew the sufferings and the
 wrongs of the poor defenceless female slave, that they may lift up their
-strong cries to Heaven in her behalf.</p>
+strong cries to Heaven in her behalf.
 
-<p>I wish, therefore, to compare slavery with fornication and adultery, and
+I wish, therefore, to compare slavery with fornication and adultery, and
 the violation of female purity by force. And, my hearers, I do not ask
 you to believe my naked assertion on this point, I will show you proof,
-as it has been my endeavor to do on every point previously considered.</p>
+as it has been my endeavor to do on every point previously considered.
 
-<p>Look again at the laws. In Kentucky&mdash;'any negro, mulatto, or Indian,
-<i>bond or free, who shall at any time, lift his hand in opposition to any
-white person</i>, (mark the language) shall receive thirty lashes, on his
-or her bare back, <i>well laid on</i>, by order of the justice.'</p>
+Look again at the laws. In Kentucky--'any negro, mulatto, or Indian,
+_bond or free, who shall at any time, lift his hand in opposition to any
+white person_, (mark the language) shall receive thirty lashes, on his
+or her bare back, _well laid on_, by order of the justice.'
 
-<p><span class='pagenum'><a name="Page_20" id="Page_20">[Pg 20]</a></span></p><p>This regulation, or something very much like it, is believed to be in
+This regulation, or something very much like it, is believed to be in
 force in all the slaveholding States. Look now at the condition in which
 this places the poor female. She is at the uncontrolled will of the
 master. He may order her, by fear of the lash, into any secret place
@@ -545,45 +469,45 @@ against a white man in a court of justice, and you see the exact
 condition of the poor female slave. There is nothing, so foul in
 pollution, nothing so horrid in crime, but she may be driven by the
 lash, to be the victim of it, and she must not lift a hand in
-self-defence&mdash;and then she dare not divulge her wrongs, or if she does,
+self-defence--and then she dare not divulge her wrongs, or if she does,
 there is no power on earth, from whom she can gain any redress; or even
-protection, against a repeated infliction of the same evils.</p>
+protection, against a repeated infliction of the same evils.
 
-<p>If slaveholders had framed laws for the express purpose, of placing the
+If slaveholders had framed laws for the express purpose, of placing the
 purity and virtue of their females entirely in their own power, they
-could not have done it <i>more</i> effectually, than it is now done. It would
+could not have done it _more_ effectually, than it is now done. It would
 seem to be a system, framed for the very purpose, of giving them full
 power, to pollute by force, just as many as they pleased. At any rate,
 they know the power is in their hands, and there are developements
-enough which show that they are not slow to use it.<a name="FNanchor_1_1" id="FNanchor_1_1"></a><a href="#Footnote_1_1" class="fnanchor">[1]</a> There are a<span class='pagenum'><a name="Page_21" id="Page_21">[Pg 21]</a></span>
+enough which show that they are not slow to use it.[1] There are a
 multitude of facts on this subject, and I will just relate one or two,
-because I know them to be authentic.</p>
+because I know them to be authentic.
 
-<p>A particular friend of mine, who spent several years in a slave State,
+A particular friend of mine, who spent several years in a slave State,
 gave me the following as an occurrence, which transpired in the place
-where he resided, and at the very time of his residence there. A man,&mdash;I
-will not say gentleman, and in truth I ought to say monster,&mdash;who had a
+where he resided, and at the very time of his residence there. A man,--I
+will not say gentleman, and in truth I ought to say monster,--who had a
 wife and a family of grown up daughters, residing with him, had also in
 his house a young female slave. This slave became the mother of a child,
 and it was a matter of public notoriety, that the head of the family was
 the father of it. So barefaced had the thing become, that the man found
 it necessary to take some measures to get his shame, and the extreme
-mortification of his wife and daughters out of his mind.<a name="FNanchor_2_2" id="FNanchor_2_2"></a><a href="#Footnote_2_2" class="fnanchor">[2]</a> He
+mortification of his wife and daughters out of his mind.[2] He
 accordingly sold her for the southern market, and though it was with
 some difficulty that he could persuade the purchaser to take the infant,
 he at length did so, and the wretched mother, the victim of the master's
 beastliness and abominable crime, was taken, or rather torn from the
 house, and borne away, literally uttering cries and shrieks of distress.
 Now I would like to know whether there is any language under heaven,
-that will sufficiently set forth the guilt of such a wretch?</p>
+that will sufficiently set forth the guilt of such a wretch?
 
-<p>The following fact was related by a pious physician who resides in the
+The following fact was related by a pious physician who resides in the
 city of Washington. It came to me in such a way that I know it to be a
-fact.</p>
+fact.
 
-<p>'There is,' said this physician, 'residing in this city, a young female
+'There is,' said this physician, 'residing in this city, a young female
 slave, who is pious, and a member of the same church to which I belong.
-She is a mulatto,<span class='pagenum'><a name="Page_22" id="Page_22">[Pg 22]</a></span> and her complexion nearly white. One day, she came to
+She is a mulatto, and her complexion nearly white. One day, she came to
 me in great trouble and distress, and wished me to tell her what she
 could do. She stated to me, that her master's son, was in the practice
 of compelling her whenever he pleased, to go with him to his bed. She
@@ -597,9 +521,9 @@ there she was, a pious girl, with all the feelings of her heart alive to
 the woes of her condition, the victim of the brutal lusts of a dissolute
 young man; with no means of defence or escape, and no prospect before
 her, but that of being again and again polluted, whenever his unbridled
-passions should chance to dictate.</p>
+passions should chance to dictate.
 
-<p>Perhaps there is a mother here, who has a pious daughter, and I would
+Perhaps there is a mother here, who has a pious daughter, and I would
 like to come into her heart, and ask what would be her feelings, if that
 daughter were placed in such circumstances as these; or what would be
 the feelings of that daughter, if she were thus bound down, to a
@@ -609,9 +533,9 @@ and damning, as the wretch that will pursue such a course of conduct as
 that. Even the victim of seduction is but decoyed from the paths of
 virtue, but here is a disciple of Christ, bound, and that too, by the
 laws of the land, and laid, a helpless victim, on the altar of
-prostitution.</p>
+prostitution.
 
-<p><span class='pagenum'><a name="Page_23" id="Page_23">[Pg 23]</a></span></p><p>Here then, is a crime punishable, under most Governments, with death,
+Here then, is a crime punishable, under most Governments, with death,
 and the victim has power of redress, and certainly of escape from a
 repetition of the outrage; but slavery places its victims where there is
 no redress, and no deliverance; and gives the slaveholder full power, to
@@ -625,7 +549,7 @@ have been relating, are the common occurrences of every day. O, when I
 reflect on this subject, I could almost pray for a voice like a volcano;
 and for words that would scorch and burn like drops of melted lava, that
 I might thunder the guilt of the slaveholder in his ears, and talk to
-him in language which he <i>would</i> feel. Who will say, that this system of
+him in language which he _would_ feel. Who will say, that this system of
 slavery, under which no female, who has a drop of African blood in her
 veins, has any defence for her virtue, against any white man, even for
 an hour, and no possibility of escaping from pollution, is not
@@ -633,17 +557,17 @@ unspeakably worse than fornication and adultery, or even the violation
 of purity by force, where there are laws to apprehend and punish for
 such a crime? Do not suspect me of a wish to palliate these vices. They
 were never painted, in colorings too foul and loathsome; nor was their
-guilt ever portrayed in a blackness deeper than the reality&mdash;but I say,
-the system of slavery is a thing fouler, blacker, guiltier still.</p>
+guilt ever portrayed in a blackness deeper than the reality--but I say,
+the system of slavery is a thing fouler, blacker, guiltier still.
 
-<p><span class='pagenum'><a name="Page_24" id="Page_24">[Pg 24]</a></span></p><p>7. But let us look again, and compare slavery with treason. Benedict
+7. But let us look again, and compare slavery with treason. Benedict
 Arnold was a traitor. At a time, when his country was in great distress
 and difficulties, he formed the mad purpose, of delivering her over to
 the will of her enemies; and did what he could, to accomplish his end.
-Every breast in the land, burned with indignation against him&mdash;and, but
-for his flight, he would have ended his days on a gallows.</p>
+Every breast in the land, burned with indignation against him--and, but
+for his flight, he would have ended his days on a gallows.
 
-<p>But suppose he had accomplished his end, and the unjust laws against
+But suppose he had accomplished his end, and the unjust laws against
 which our fathers fought and bled, had remained in full force upon us
 until now? I am bold to say, that we should not have suffered wrongs,
 that ought to be mentioned, in comparison with the wrongs of the slave.
@@ -661,8 +585,8 @@ polluted before his eyes, and all the laws of the land, are against his
 lifting a finger for their deliverance. He may toil ever so hard, during
 his whole life, and he cannot be worth a farthing. The treason of
 Arnold, had it prospered, would never have subjected us to such evils as
-these. Besides, had we remained until this time<span class='pagenum'><a name="Page_25" id="Page_25">[Pg 25]</a></span> British Colonies, other
-things being as they now <i>are</i>, this evil of slavery would now have been
+these. Besides, had we remained until this time British Colonies, other
+things being as they now _are_, this evil of slavery would now have been
 done away, and perhaps years ago. When I think of this, if I had not
 confidence in the overruling Providence of God, I could almost weep,
 that it did not seem best to the God of armies, to leave us under the
@@ -678,79 +602,79 @@ farther. I have glanced at what men regard as the worst of evils and
 crimes; but when weighing the guilt of slavery, we find that everything
 which we can place in the opposite scale, at once kicks the beam. It has
 a weight of guilt attached to it, that can be balanced by the guilt of
-no other <i>crime</i>.</p>
+no other _crime_.
 
-<p>There is one more point to the thing, which I wish to name, as giving
+There is one more point to the thing, which I wish to name, as giving
 blackness and aggravation to its guilt, and then I have done. It is,
 that multitudes of the professed disciples of Christ, come forward to
 justify the system of slavery, and to claim for it the sanctions of the
 word of God. Yes, this system of slavery, red as it is with crime, black
 as it is with guilt, and foul as it is with impurity, is called, even by
-professed Christians and Ministers, an institution of the Bible. Oh, it<span class='pagenum'><a name="Page_26" id="Page_26">[Pg 26]</a></span>
+professed Christians and Ministers, an institution of the Bible. Oh, it
 seems to me, that if the long suffering patience of a forbearing God,
 was ever insulted beyond endurance, it must be, when the protection of
 his authority is claimed, for the perpetuity of such a system as this.
-There is no crime which it does not legalize&mdash;no sin which it does not
-protect&mdash;no depth of impurity which it does not dig, and in which it
+There is no crime which it does not legalize--no sin which it does not
+protect--no depth of impurity which it does not dig, and in which it
 does not permit vile men to wallow. And yet there are not wanting men,
 Christian men, and ministers who wait at the altar of God, who call this
 an institution of Heaven, and claim for it the authority of the Most
 High. I know that they would plead for slavery, without the abominations
 which I have named, and claim to look upon such crimes, and vices, with
-as deep an abhorrence as we.</p>
+as deep an abhorrence as we.
 
-<p>But who cannot see, that slavery is the common mother of all this brood
+But who cannot see, that slavery is the common mother of all this brood
 of hellish ills; in whose frightfully prolific womb they are conceived,
-and by whom they are brought forth. Slavery <i>itself</i> is the thing to be
+and by whom they are brought forth. Slavery _itself_ is the thing to be
 reprobated? You must put the odious dam to death, or she will continue
 to multiply her infernal progeny, and send them abroad among us,
 prolific in woes. You cannot have slavery without its concomitant evils.
 I know men may be found, whose hearts have felt the power of the
 religion of Christ, but whose moral sensibilities are not sufficiently
 awake, to lead them to obey God on this subject, to break every yoke and
-let the oppressed go free, who claim that <i>they</i> treat their slaves
+let the oppressed go free, who claim that _they_ treat their slaves
 kindly, and that under such circumstances, slavery is justifiable; and
 that moreover, they are not accountable for the crimes which other men
 commit among their slaves, or for the wrongs which they practice upon
-them. Kindness to an enslaved man! It is a <span class='pagenum'><a name="Page_27" id="Page_27">[Pg 27]</a></span>contradiction in terms. You
+them. Kindness to an enslaved man! It is a contradiction in terms. You
 might as well rob him of his all on earth, cut off his hands and feet,
 and bore out his eyes, and then take him into your house, and treat him
-kindly to make up for the wrong.</p>
+kindly to make up for the wrong.
 
-<p>The slave, under the best circumstances, is the victim of robbery every
+The slave, under the best circumstances, is the victim of robbery every
 day. Day by day, all his life, he is robbed of the fruits of his labor,
 that it may go to enrich another. He has hands indeed, but he may not
 use them for his own benefit. Feet he has, but they may not bear him
-where <i>he</i> would go. They must go and come at the master's bidding, and
+where _he_ would go. They must go and come at the master's bidding, and
 not his. He has eyes, but he may not look on the light of science, or on
 the clearer, purer light of God's revealed truth. Even the sun shines
 not for him, as it only serves to light him to his unwilling and
 unrequited toil. Of what use then, are hands, and feet, and eyes, to
 him? He can no more use them for his own benefit, than if he had
-none&mdash;and yet you think to make up to him by kindness what you have
+none--and yet you think to make up to him by kindness what you have
 taken away; and call yourself a disciple of Christ, and think that
 Heaven will reward you for being so kind to your poor oppressed, down
 trodden victim, whom you compel to labor unrewarded, for your good. Is
-that the religion of Christ? Is that loving your neighbor as yourself?</p>
+that the religion of Christ? Is that loving your neighbor as yourself?
 
-<p>But, the most kind hearted, and upright, and pious slaveholder in the
+But, the most kind hearted, and upright, and pious slaveholder in the
 land, so far as he approves of the system of slavery, and pleads for its
 perpetuity, is at best, accessory to all the evils to which the system
 gives rise. He is therefore a partaker in its guilt, and will hereafter
 find his hands stained and polluted with its vices and its crimes. He
 who has said in his Bible, Be not partaker of other men's sins, has
-also<span class='pagenum'><a name="Page_28" id="Page_28">[Pg 28]</a></span> said, Come out from among them, and be ye separate, and touch not
-the unclean thing, <i>and no man can be guiltless who refuses to do this</i>.</p>
+also said, Come out from among them, and be ye separate, and touch not
+the unclean thing, _and no man can be guiltless who refuses to do this_.
 
-<p>But perhaps it will be asked; admitting that slavery is everything that
+But perhaps it will be asked; admitting that slavery is everything that
 you claim it to be, what right have you to interfere? I claim no right
 of interference, based on the existing laws of our country, for these,
 as we have seen, are so abominably wicked and oppressive, as fully to
 sanction all the evils and crimes which we have been considering. Still,
-I claim, that I have a right to interfere,<a name="FNanchor_3_3" id="FNanchor_3_3"></a><a href="#Footnote_3_3" class="fnanchor">[3]</a> and to do all in my power,
+I claim, that I have a right to interfere,[3] and to do all in my power,
 by every possible means, for the extinction of slavery. Do any ask, on
 what that right is based? I answer, on the statute book of Almighty
-God&mdash;on the pillars of heaven's eternal throne, and better authority
+God--on the pillars of heaven's eternal throne, and better authority
 than this, to sanction my interference, I do not ask. 'Thou shalt love
 thy neighbor as thyself.' 'Who is my neighbor?' Let Jesus Christ answer.
 'A certain man, no matter who, went down from Jerusalem to Jericho, and
@@ -761,9 +685,9 @@ side.' How exactly like the conduct of many ministers of the gospel,
 toward the slave. They just look on his sufferings, and pass by, making
 no effort to give him relief. 'And likewise a Levite, when he was at the
 place, came and looked on him, and passed by on the other side.' Just so
-multitudes of professing Christians conduct toward the slave.<span class='pagenum'><a name="Page_29" id="Page_29">[Pg 29]</a></span> They look
+multitudes of professing Christians conduct toward the slave. They look
 on him, pass on, and leave him alone in his woes. 'But, a certain
-Samaritan, as he journeyed, came where he was, and when <i>he</i> saw him, he
+Samaritan, as he journeyed, came where he was, and when _he_ saw him, he
 had compassion on him, and went to him and bound up his wounds, pouring
 in oil and wine, and set him on his own beast, and brought him to an
 inn, and took care of him. And on the morrow when he departed, he took
@@ -784,48 +708,48 @@ than two millions of my neighbors, yes, of my brethren, my own fellow
 countrymen, groaning and toiling, and dying, under the unparalleled
 wrongs of slavery. I have no right not to interfere. I am a traitor to
 my neighbor, and a rebel against my God, if I forbear to interfere; if I
-fail to use the last power which my Maker has given me, in<span class='pagenum'><a name="Page_30" id="Page_30">[Pg 30]</a></span> pleading for
+fail to use the last power which my Maker has given me, in pleading for
 the immediate deliverance of my fellow men from their sufferings and
 their chains. I trample on the universal law of the infinite Jehovah, if
 I leave undone anything in my power, which I would wish to have done for
-me, if all the miseries of slavery were mine.</p>
+me, if all the miseries of slavery were mine.
 
-<p>But it is not merely by looking at the general principles of God's
+But it is not merely by looking at the general principles of God's
 government, that I learn my duty toward the toil-worn, agonized,
 suffering slave. I find positive direction for this specific case. Jer.
-21 : 12.&mdash;'Thus saith the Lord&mdash;Execute judgment in the morning, and
+21 : 12.--'Thus saith the Lord--Execute judgment in the morning, and
 deliver him that is spoiled out of the hand of the oppressor, lest my
 fury go forth like fire, and burn that none can quench it, because of
 the evil of your doings.' Who is spoiled, if it be not the slave? Is he
-not spoiled of everything? Spoiled of all his earnings&mdash;spoiled of the
-child whom he loves&mdash;spoiled of the wife that is bone of his bone, and
-flesh of his flesh&mdash;spoiled even of the ownership of himself, and
+not spoiled of everything? Spoiled of all his earnings--spoiled of the
+child whom he loves--spoiled of the wife that is bone of his bone, and
+flesh of his flesh--spoiled even of the ownership of himself, and
 spoiled of his immortal soul, by being robbed of the light that would
-guide his feet to heaven? And the poor suffering female slave&mdash;of what
+guide his feet to heaven? And the poor suffering female slave--of what
 is she not spoiled? Spoiled of all that protection, which the innocent
 and helpless, have a right to claim, even of the savage. Spoiled of all
 the affectionate tenderness, which woman everywhere, has a right to
 expect; spoiled even of her virtue, and that by law, for we have seen,
 that the laws have placed her, where she cannot preserve it, if she
-would.</p>
+would.
 
-<p>Who then, I ask again, is spoiled, if it be not the slave? And who is an
+Who then, I ask again, is spoiled, if it be not the slave? And who is an
 oppressor, if it be not the man who holds him in bondage, and inflicts
-all these wrongs upon him? While, therefore, I hear the God of heaven<span class='pagenum'><a name="Page_31" id="Page_31">[Pg 31]</a></span>
+all these wrongs upon him? While, therefore, I hear the God of heaven
 saying, 'Deliver him that is spoiled out of the hand of the oppressor,
 lest my fury go forth like fire, and burn, that none can quench it,' can
 I expect to escape the fury of that fire, if I shut my ears against the
 mandate, which thunders upon me from the presence chamber, and from the
 lips of Him, who declares himself King of kings, and Lord of lords? Tell
-me not, that I have no right to interfere&mdash;no right to plead for the
+me not, that I have no right to interfere--no right to plead for the
 deliverance 'of the spoiled out of the hand of the oppressor.' I may not
-fail to do it&mdash;lest the fire of God's fury kindle upon me, for my
+fail to do it--lest the fire of God's fury kindle upon me, for my
 disregard of his high command. And the same, is true of all my readers.
 Unless you have a right to disobey Almighty God, you have no right to
 leave anything undone, which you might do, for the deliverance of the
-slave.</p>
+slave.
 
-<p>But who is the slave? He is a man&mdash;made in the image of God&mdash;and bears
+But who is the slave? He is a man--made in the image of God--and bears
 as much of God's image, remember, as though he had the complexion, and
 the features, and the limbs, of the white man. Where is the man with a
 pale face, even among slaveholders, who will stand up, before the face
@@ -836,65 +760,65 @@ in the image of his God, and to him God gave dominion over the works of
 his hand, as much as to the white man. For him God lighted up the sun
 and moon, and made the heavens resplendent with stars, as much as for
 us. For him God made the breath of morning, and the calm stillness of
-the summer eve&mdash;for him the deep blue sky was spread a canopy, and for
-him puts on alternate tints of purple<span class='pagenum'><a name="Page_32" id="Page_32">[Pg 32]</a></span> and of gold. For him the
+the summer eve--for him the deep blue sky was spread a canopy, and for
+him puts on alternate tints of purple and of gold. For him the
 landscape smiles in green, and flowers spring up to beautify his path,
 and trees hang out their foliage, and bend beneath their burdens of
-delicious fruit. For him the fields wave with their ripening grain&mdash;for
-him the valleys yield their corn&mdash;for him the flocks and herds lay down
+delicious fruit. For him the fields wave with their ripening grain--for
+him the valleys yield their corn--for him the flocks and herds lay down
 their treasures, and the sea sends up its inexhaustible supplies. For
 him the limpid stream, the clear pure fountain were provided, and for
 him the balmy air, echoing with melody of birds. Ah, and for him,
-remember it ye who dare withhold it from him&mdash;for him the Bible was
+remember it ye who dare withhold it from him--for him the Bible was
 given. Who dare say, that God provided these things for the master, more
-than for the man whom he enslaves.</p>
+than for the man whom he enslaves.
 
-<p>But what is more than all, for him the Son of God came down and died.
+But what is more than all, for him the Son of God came down and died.
 The blood gushed from his heart as freely, and in streams as pure, for
 the oppressed and broken hearted slave, as for us, or for the man who
-dares enslave God's image&mdash;for him the river of water of life,
-proceedeth clear as crystal from the throne of God and the Lamb&mdash;for him
+dares enslave God's image--for him the river of water of life,
+proceedeth clear as crystal from the throne of God and the Lamb--for him
 the streets of the New Jerusalem are paved with gold, and for him, the
 glory of God and the Lamb, shall pour forth its light, in beams that
-shall forever hide the brightness of the noonday sun&mdash;and for him are
+shall forever hide the brightness of the noonday sun--and for him are
 made ready the joys of an eternal heaven. Yes, this is the being whom
 slavery binds in chains, and robs of all the richest gifts of heaven,
 and sinks in ignorance and pollution down to hell. Oh, if the whole arch
 of heaven above us, ever echoed with the loud threatenings of an
-indignant God&mdash;it may now be heard to echo with the fearful
-interrogation&mdash;'Shall I not visit for these things saith the Lord? Shall
-not my soul be avenged on such a nation as this?'</p>
+indignant God--it may now be heard to echo with the fearful
+interrogation--'Shall I not visit for these things saith the Lord? Shall
+not my soul be avenged on such a nation as this?'
 
-<p><span class='pagenum'><a name="Page_33" id="Page_33">[Pg 33]</a></span></p><p>And now will you look on, and seal your lips in silence, and say that
+And now will you look on, and seal your lips in silence, and say that
 you have no right to interfere for the deliverance of the slave? Do you
 not hear the God of heaven saying, 'Deliver him that is spoiled out of
 the hand of the oppressor, lest my fury go forth like fire and burn that
 none can quench it;' and dare you disobey? Do you ask what shall be done
 for his deliverance? I answer, let every pulpit thunder forth this
-mandate of the most high God&mdash;let every minister at the altar cry aloud
-and spare not and lift up his voice like a trumpet&mdash;and show this people
+mandate of the most high God--let every minister at the altar cry aloud
+and spare not and lift up his voice like a trumpet--and show this people
 their transgressions; this guilty people their sins. Let every press
 groan to be delivered of its obligation, to make known the Almighty's
-will&mdash;and let such as can pray, pray <i>now</i>, that God will break every
-yoke, and let the oppressed go free. Especially, let woman&mdash;woman, the
+will--and let such as can pray, pray _now_, that God will break every
+yoke, and let the oppressed go free. Especially, let woman--woman, the
 last to linger around the cross, and the first to find the sepulchre of
 God's crucified Son; linger long at the altar of prayer, and be found
 early upon her knees, wrestling at the throne of grace; and let all who
 fear God or love man, resolve before high Heaven, that they will not
 rest, till every chain is broken, every yoke buried, every scourge and
-fetter burned.</p>
+fetter burned.
 
-<p>But I seem to hear some one ask&mdash;must we think only of the slave&mdash;must
+But I seem to hear some one ask--must we think only of the slave--must
 we not regard the master's rights? Rights! What rights? Right to hold
 his fellow man in bondage for one hour? He might as well claim a right
 to sit on the throne of God. He has no such right. But must he
 relinquish all the property he now holds in slaves? He has no such
 property. He has no more right to call them his property, than he has to
-call the angels in heaven his <span class='pagenum'><a name="Page_34" id="Page_34">[Pg 34]</a></span>property. God gave man dominion over the
-beasts of the field&mdash;but over God's own image he never gave him
-dominion. The wicked, heaven-daring laws of men, confer the <i>power</i> of
-enslaving man&mdash;but the <i>right</i> they never gave, for it was never theirs
-to give. There is no such thing as property in man&mdash;there never can be.
+call the angels in heaven his property. God gave man dominion over the
+beasts of the field--but over God's own image he never gave him
+dominion. The wicked, heaven-daring laws of men, confer the _power_ of
+enslaving man--but the _right_ they never gave, for it was never theirs
+to give. There is no such thing as property in man--there never can be.
 We do not ask the slaveholder to relinquish any right. We call upon him,
 on the authority of God, to break every yoke and let the oppressed go
 free. We do not ask them to give up their property. We tell them that
@@ -904,26 +828,26 @@ daubed them with untempered mortar, seeing vanity and divining lies unto
 them, saying thus saith the Lord, when the Lord hath not spoken. That
 the people of the land have used oppression, and exercised robbery, and
 have vexed the poor and needy, and have oppressed the stranger
-wrongfully&mdash;and that God now threatens to pour out his indignation upon
+wrongfully--and that God now threatens to pour out his indignation upon
 them, and to consume them with the fire of his wrath, and to recompense
-their way upon their own heads.' No&mdash;we do not ask the slaveholder to
-give up his property&mdash;we ask them 'to cease beating God's people to
-pieces&mdash;to cease grinding the face of the poor;' and when the
-slaveholder has done that, the lost slave will have his freedom.</p>
+their way upon their own heads.' No--we do not ask the slaveholder to
+give up his property--we ask them 'to cease beating God's people to
+pieces--to cease grinding the face of the poor;' and when the
+slaveholder has done that, the lost slave will have his freedom.
 
-<p>But you say it would make great changes in society, to free every slave
+But you say it would make great changes in society, to free every slave
 at once, and many a man, who now lives in affluence, would instantly
 become poor. We doubt it not. We doubt not that many a wretch, who has
 rolled in profusion, by robbing his fellow men of their earnings, would
-be obliged to go to work with his<span class='pagenum'><a name="Page_35" id="Page_35">[Pg 35]</a></span> own hands to earn his bread; and this
+be obliged to go to work with his own hands to earn his bread; and this
 is just what he ought to have done long ago. He is made of no better
 clay than the lowliest of all God's creatures whom he enslaves; and
 there is no more reason why he should be exempted from eating his bread
 in the sweat of his brow. Let us arise then with one heart, and with
 united voice, and with ready hands, do our utmost, to deliver the
-oppressed from their wrongs.</p>
+oppressed from their wrongs.
 
-<p>But it may still be asked, what do you expect to accomplish? We expect
+But it may still be asked, what do you expect to accomplish? We expect
 to make the slaveholder feel, that when he crushes an immortal soul down
 to the depths of hell, to gratify his own abominable selfishness, God
 will hold him accountable for that soul at the judgment day. We expect
@@ -937,19 +861,19 @@ and having thus bared his conscience to the arrows of truth, we expect
 to call down the Holy Spirit by our prayers, to fix these arrows deep in
 his heart; to reprove him of sin, of righteousness and of judgment, and
 thus to bring him to unfeigned repentance before God. We expect not to
-accomplish what we aim at with our unaided strength&mdash;but we believe that
+accomplish what we aim at with our unaided strength--but we believe that
 the Lord of hosts is with us, and trusting in his strength we cannot
 fail. Christians of every name, shall we not have your aid? Lovers of
-your fellow men, look at the wrongs of the slave, and<span class='pagenum'><a name="Page_36" id="Page_36">[Pg 36]</a></span> weep and toil for
+your fellow men, look at the wrongs of the slave, and weep and toil for
 him, that he may go free. Open your hearts and your hands to him, and
 remember that 'He that hath pity on the poor, lendeth to the Lord, and
-that which he hath given he will pay him again.'</p>
+that which he hath given he will pay him again.'
 
-<p>Let no one think to rid himself of obligation, on this momentous
+Let no one think to rid himself of obligation, on this momentous
 subject. Every man has a tongue, and he can use it; he has influence,
 and he can exert it; he has moral power, and he can put it forth; and
 this is all the power we need. Our efforts are aimed, not at the life of
-the slaveholder, but at his conscience&mdash;his moral feelings, and with the
+the slaveholder, but at his conscience--his moral feelings, and with the
 help of God, we do expect them to prevail. But, perhaps you will say,
 that slaveholders have no conscience on this subject. Doubtless their
 conscience may be dead and buried; it may have been sleeping these fifty
@@ -964,20 +888,23 @@ Sabaoth.' The Lord of armies, is the fearful signification of that term;
 and if they cease not from their oppression, they may well expect, that
 the Lord of armies will not long withhold his hand. Up, my friends, and
 do your duty, to deliver the spoiled out of the hand of the oppressor,
-lest the fire of God's fury kindle ere long upon you.</p>
+lest the fire of God's fury kindle ere long upon you.
 
-<div class="footnotes"><h3>FOOTNOTES:</h3>
+FOOTNOTES:
 
-<div class="footnote"><p><a name="Footnote_1_1" id="Footnote_1_1"></a><a href="#FNanchor_1_1"><span class="label">[1]</span></a> Read Bourne's Picture of Slavery.</p></div>
+[1] Read Bourne's Picture of Slavery.
 
-<div class="footnote"><p><a name="Footnote_2_2" id="Footnote_2_2"></a><a href="#FNanchor_2_2"><span class="label">[2]</span></a> This occurrence was not very far South, otherwise, there
-would have been no shame.</p></div>
+[2] This occurrence was not very far South, otherwise, there would have
+been no shame.
 
-<div class="footnote"><p><a name="Footnote_3_3" id="Footnote_3_3"></a><a href="#FNanchor_3_3"><span class="label">[3]</span></a> The author disapproves of interference at the expense of
-human life, but believes that all possible means short of the shedding
-of blood, are justifiable.</p></div>
-</div>
+[3] The author disapproves of interference at the expense of human life,
+but believes that all possible means short of the shedding of blood, are
+justifiable.
 
-<div>*** END OF THE PROJECT GUTENBERG EBOOK 51371 ***</div>
-</body>
-</html>
+
+
+
+
+End of the Project Gutenberg EBook of Slaveholding, by Charles Fitch
+
+*** END OF THE PROJECT GUTENBERG EBOOK 51371 ***
